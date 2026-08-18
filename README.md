@@ -14,7 +14,7 @@ python app.py
 
 ### 3. Brauzerda oching
 ```
-http://10.170.115.120:5002/
+http://10.170.115.120:5003/
 ```
 
 ---
